@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba08e589.css",
+    "main.js": "/static/js/main.28ea34d3.js",
+    "static/js/787.34e51cd9.chunk.js": "/static/js/787.34e51cd9.chunk.js",
+    "static/media/initial-bkg.png": "/static/media/initial-bkg.cb33771288d341d3cb18.png",
+    "static/media/bkg-hero2.png": "/static/media/bkg-hero2.2d0a1bdd382fe37a6356.png",
+    "static/media/bkg-vantagens.png": "/static/media/bkg-vantagens.2d0a1bdd382fe37a6356.png",
+    "static/media/bkg-hero1.png": "/static/media/bkg-hero1.ba8ebfe327a9cfcc58e8.png",
+    "static/media/bkg-hero3.png": "/static/media/bkg-hero3.dbe2d293975429d16871.png",
+    "static/media/cnh.png": "/static/media/cnh.92891f978c2e09a1165a.png",
+    "static/media/logo.png": "/static/media/logo.579e8b648313a15b3a96.png",
+    "index.html": "/index.html",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "main.ba08e589.css.map": "/static/css/main.ba08e589.css.map",
+    "main.28ea34d3.js.map": "/static/js/main.28ea34d3.js.map",
+    "787.34e51cd9.chunk.js.map": "/static/js/787.34e51cd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba08e589.css",
+    "static/js/main.28ea34d3.js"
+  ]
+}
